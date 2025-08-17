@@ -11,6 +11,7 @@ Although being simple, that's an important step to dive into this world!
 - [`bitutils.h`](./include/bitutils.h): header create to group functions that would be use. We must it to import them in a test file.
 
 - [`bitutils.c`](./src/bitutils.c): the file that will define what each function will do.
+
   ```c
   ```
   1. ```> [!CAUTION]
@@ -24,11 +25,11 @@ Although being simple, that's an important step to dive into this world!
 
 ---
   > [!WARNING]
-  > See that `value` variable is a pointer. It must be that way because we will modify the global variable directly, deferencing it.
+  > See that `value` variable is a pointer. It must be that way because we will modify the global variable directly, dereferencing it.
 
 ---
 
-  - `(1U << bit)` will create a mask seting the bit 1 `bit` positions to left. For example:
+  - `(1U << bit)` will create a mask defining the bit 1 `bit` positions to left. For example:
 
   ```text
   bit = 4
