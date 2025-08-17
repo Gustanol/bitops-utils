@@ -12,9 +12,6 @@ Although being simple, that's an important step to dive into this world!
 
 - [`bitutils.c`](./src/bitutils.c): the file that will define what each function will do.
 
-  ```c
-  ```
-  1. ```> [!CAUTION]
   1. `set_bit`: receive a value and set the bit in `bit` position to 1.
 
   ```c
