@@ -98,7 +98,7 @@ Although being simple, that's an important step to dive into this world!
 ---
 
   > [!NOTE]
-  > Note that in here we do not need to receive a pointer as an argument, because there's no modification.
+  > Note that, in here, we do not need to receive a pointer as an argument, because there's no modification.
 
 ---
 
