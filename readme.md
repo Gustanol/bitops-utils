@@ -8,7 +8,7 @@ Although being simple, that's an important step to dive into this world!
 
 ### Bellow, I will explain the elements created:
 
-- [`bitutils.h`](./include/bitutils.h): header create to group functions that would be use. We must it to import them in a test file.
+- [`bitutils.h`](./include/bitutils.h): header created to group functions that would be use. We must it to import them in a test file.
 
 - [`bitutils.c`](./src/bitutils.c): the file that will define what each function will do.
 
